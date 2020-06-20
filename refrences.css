@@ -1,0 +1,28 @@
+<style>
+      a {
+        color: white;
+        font-family:Times New Roman;
+        font-size: 40px;
+        text-decoration:none;
+      }
+      h1 {
+        color: white;
+        font-family:Helvetica;
+        font-size: 40px; 
+      }
+      h2 {
+        color: white;
+        font-family:Helvetica;
+      }
+      h5 {
+        color: white;
+        font-family:Helvetica;
+        font-size: 30px; 
+        }
+      body {
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbqPvXCXqgmtIzz0__0AeEEPOiEGF71Nhq-uCINC4Iy_v2PTTE&usqp=CAU');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        }
+    </style>
